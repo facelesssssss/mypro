@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-123fasfa
-Alfalfa
-Dash
-=======
-123asdadasd
->>>>>>> mymain
